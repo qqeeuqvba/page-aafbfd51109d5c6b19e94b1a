@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "fb3f22bbb7d4c69a9fe70ed9",
+  "owner": "qqeeuqvba",
+  "repo": "page-aafbfd51109d5c6b19e94b1a",
+  "title": "快鱼(Fastfish)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "aafbfd51109d5c6b19e94b1a",
+      "a": "快鱼(Fastfish)",
+      "b": "免费订阅导入",
+      "entity": "快鱼(Fastfish)",
+      "brand": "快鱼(Fastfish)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1541ebce5cafbf13d937c3269daa7f7e095217f7ecdd2046f9229b23eb7aab0b",
+      "content": {
+        "primary_entity": "快鱼(Fastfish)",
+        "keyword1": "快鱼(Fastfish)",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选用合适客户端，在客户端内导入快鱼订阅完成配置。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，把快鱼订阅导入常用设备即可开始使用。",
+          "AI_CLOSING_TITLE": "选套餐，导订阅",
+          "AI_DESCRIPTION": "，快鱼(Fastfish)提供基础版、旗舰版与团队版三档订阅，流量覆盖每月100GB至1000GB，支持3至20台设备同时在线，年付可节省两个月费用。不同设备可选用对应客户端，把快鱼订阅信息导入客户端即可使用，旗舰版与团队版还提供流媒体解锁和专线优化。",
+          "AI_FEATURES_INTRO": "从流量需求、设备数量和订阅周期三个角度了解快鱼套餐的差异。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度使用，旗舰版300GB覆盖日常影音，团队版1000GB满足多设备高流量需求。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台，可根据手机、电脑、平板等同时在线数量决定。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版年付¥150，旗舰版年付¥350，团队版年付¥850，均相当于十个月价格。",
+          "AI_FEATURE_TITLE_3": "按月付或年付",
+          "AI_GUIDE_INTRO": "按照选服务、核对适配、配置订阅的顺序，完成快鱼加速器的初次使用。",
+          "AI_GUIDE_TITLE": "使用步骤指引",
+          "AI_HERO_INTRO": "快鱼(Fastfish)提供多档海外加速订阅，覆盖基础浏览、流媒体解锁和团队协作场景。选择适合的套餐后，在对应设备客户端导入订阅即可使用，年付方案更经济。",
+          "AI_HERO_SUBTITLE": "多档订阅适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖100GB至1000GB月流量",
+          "AI_HIGHLIGHT_2": "支持3至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案相当于十个月价格",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，按流量、设备数和线路需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、设备数量和使用场景，从基础版、旗舰版或团队版中选定订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "确认所选套餐的流量额度、在线设备数和线路特性，核对是否满足当前使用环境。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在手机或电脑客户端中，按照客户端文档导入快鱼订阅信息，完成节点配置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "快鱼加速订阅",
+          "AI_FAQ_ANSWER_1": "旗舰版支持5台设备同时在线，是三个套餐中设备数量居中的选择。如果家庭或小团队人数更多，可以升级到团队版，支持20台设备。",
+          "AI_FAQ_ANSWER_2": "流量超出后，可以等待下月重置，或者升级到更高档套餐。旗舰版每月300GB、团队版每月1000GB，能覆盖多数日常使用场景。",
+          "AI_FAQ_ANSWER_3": "Win 平台常用 Clash、v2rayN；macOS 可用 ClashX、V2RayX；Android 可选 v2rayNG、Clash for Android；iOS 可用 Shadowrocket、Stash。按客户端文档导入订阅即可，具体兼容情况请以客户端自身说明为准。",
+          "AI_FAQ_ANSWER_4": "在对应客户端的订阅管理里找到删除或更新选项，重新填入新订阅链接并更新节点列表即可，无需卸载重装。",
+          "AI_FAQ_ANSWER_5": "按年付比月付更划算。基础版年付150元、旗舰版年付350元、团队版年付850元，相当于用十个月价格获得十二个月服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "快鱼(Fastfish)旗舰版可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "套餐流量用超了会怎样？",
+          "AI_FAQ_QUESTION_3": "各平台分别推荐哪个客户端？",
+          "AI_FAQ_QUESTION_4": "订阅链接更新后需要重新配置吗？",
+          "AI_FAQ_QUESTION_5": "按年付比按月付省多少？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "524873b435c613a3981c3e3a57c35909066df997dcd30b2a2af0594a2dc19a61",
+    "sitemap.xml": "4597441698513945314ac3d49cb32d17a8172db106cb402546b96fc2d40e4380",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "d531fc8a80e9d9ee60d8b34ed537f5c396805cea674d8046c5229012250bd2c0"
+}
